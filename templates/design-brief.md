@@ -1,0 +1,21 @@
+# Design brief: <project>
+
+- Accountable owner:
+- User problem and first workflow:
+- Out of scope:
+- Users, tenant boundaries, and identity source:
+- Data sources, ACLs, allowed providers, and retention:
+- Expected volume, concurrency, latency budget, and spending budget:
+- API request/response contracts:
+- Architecture and trust boundaries:
+- Prompt/model/corpus versioning:
+- Retrieval and insufficient-evidence behavior:
+- Cache eligibility, key boundaries, invalidation, and TTL:
+- Router, retry/fallback deadline, and failure behavior:
+- Tool allowlist, approval, and idempotency:
+- Evaluation dataset, baseline, and predeclared release gates:
+- Trace fields, redaction, alerts, and incident owner:
+- Deployment stages and rollback:
+- Alternatives considered and tradeoffs:
+- Assumptions and unresolved decisions:
+- Verification commands and evidence:
